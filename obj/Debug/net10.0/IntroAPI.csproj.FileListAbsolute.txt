@@ -1,0 +1,192 @@
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroController\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroController\bin\Debug\net10.0\appsettings.json
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroController\bin\Debug\net10.0\IntroAPI.staticwebassets.endpoints.json
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroController\bin\Debug\net10.0\IntroAPI.exe
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroController\bin\Debug\net10.0\IntroAPI.deps.json
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroController\bin\Debug\net10.0\IntroAPI.runtimeconfig.json
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroController\bin\Debug\net10.0\IntroAPI.dll
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroController\bin\Debug\net10.0\IntroAPI.pdb
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroController\bin\Debug\net10.0\IntroAPI.xml
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroController\bin\Debug\net10.0\BouncyCastle.Cryptography.dll
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroController\bin\Debug\net10.0\Google.Protobuf.dll
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroController\bin\Debug\net10.0\K4os.Compression.LZ4.dll
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroController\bin\Debug\net10.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroController\bin\Debug\net10.0\K4os.Hash.xxHash.dll
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroController\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroController\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroController\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroController\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroController\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroController\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroController\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroController\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroController\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroController\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroController\bin\Debug\net10.0\MySql.Data.dll
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroController\bin\Debug\net10.0\Npgsql.dll
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroController\bin\Debug\net10.0\Scalar.AspNetCore.dll
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroController\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroController\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroController\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroController\bin\Debug\net10.0\System.Security.Permissions.dll
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroController\bin\Debug\net10.0\System.Windows.Extensions.dll
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroController\bin\Debug\net10.0\ZstdSharp.dll
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroController\bin\Debug\net10.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroController\bin\Debug\net10.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroController\bin\Debug\net10.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroController\bin\Debug\net10.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroController\bin\Debug\net10.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroController\bin\Debug\net10.0\runtimes\win\lib\net10.0\System.Windows.Extensions.dll
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroController\obj\Debug\net10.0\IntroAPI.csproj.AssemblyReference.cache
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroController\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroController\obj\Debug\net10.0\IntroAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroController\obj\Debug\net10.0\IntroAPI.AssemblyInfoInputs.cache
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroController\obj\Debug\net10.0\IntroAPI.AssemblyInfo.cs
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroController\obj\Debug\net10.0\IntroAPI.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroController\obj\Debug\net10.0\IntroAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroController\obj\Debug\net10.0\IntroAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroController\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroController\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroController\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroController\obj\Debug\net10.0\scopedcss\bundle\IntroAPI.styles.css
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroController\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroController\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroController\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroController\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroController\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroController\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroController\obj\Debug\net10.0\IntroAPI.csproj.Up2Date
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroController\obj\Debug\net10.0\IntroAPI.dll
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroController\obj\Debug\net10.0\refint\IntroAPI.dll
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroController\obj\Debug\net10.0\IntroAPI.xml
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroController\obj\Debug\net10.0\IntroAPI.pdb
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroController\obj\Debug\net10.0\IntroAPI.genruntimeconfig.cache
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroController\obj\Debug\net10.0\ref\IntroAPI.dll
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroAPI\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroAPI\bin\Debug\net10.0\appsettings.json
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroAPI\bin\Debug\net10.0\IntroAPI.staticwebassets.endpoints.json
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroAPI\bin\Debug\net10.0\IntroAPI.exe
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroAPI\bin\Debug\net10.0\IntroAPI.deps.json
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroAPI\bin\Debug\net10.0\IntroAPI.runtimeconfig.json
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroAPI\bin\Debug\net10.0\IntroAPI.dll
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroAPI\bin\Debug\net10.0\IntroAPI.pdb
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroAPI\bin\Debug\net10.0\IntroAPI.xml
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroAPI\bin\Debug\net10.0\BouncyCastle.Cryptography.dll
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroAPI\bin\Debug\net10.0\Google.Protobuf.dll
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroAPI\bin\Debug\net10.0\K4os.Compression.LZ4.dll
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroAPI\bin\Debug\net10.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroAPI\bin\Debug\net10.0\K4os.Hash.xxHash.dll
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroAPI\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroAPI\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroAPI\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroAPI\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroAPI\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroAPI\bin\Debug\net10.0\MySql.Data.dll
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroAPI\bin\Debug\net10.0\Npgsql.dll
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroAPI\bin\Debug\net10.0\Scalar.AspNetCore.dll
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroAPI\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroAPI\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroAPI\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroAPI\bin\Debug\net10.0\System.Security.Permissions.dll
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroAPI\bin\Debug\net10.0\System.Windows.Extensions.dll
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroAPI\bin\Debug\net10.0\ZstdSharp.dll
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroAPI\bin\Debug\net10.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroAPI\bin\Debug\net10.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroAPI\bin\Debug\net10.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroAPI\bin\Debug\net10.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroAPI\bin\Debug\net10.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroAPI\bin\Debug\net10.0\runtimes\win\lib\net10.0\System.Windows.Extensions.dll
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroAPI\obj\Debug\net10.0\IntroAPI.csproj.AssemblyReference.cache
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroAPI\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroAPI\obj\Debug\net10.0\IntroAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroAPI\obj\Debug\net10.0\IntroAPI.AssemblyInfoInputs.cache
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroAPI\obj\Debug\net10.0\IntroAPI.AssemblyInfo.cs
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroAPI\obj\Debug\net10.0\IntroAPI.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroAPI\obj\Debug\net10.0\IntroAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroAPI\obj\Debug\net10.0\IntroAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroAPI\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroAPI\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroAPI\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroAPI\obj\Debug\net10.0\scopedcss\bundle\IntroAPI.styles.css
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroAPI\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroAPI\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroAPI\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroAPI\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroAPI\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroAPI\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroAPI\obj\Debug\net10.0\IntroAPI.csproj.Up2Date
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroAPI\obj\Debug\net10.0\IntroAPI.dll
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroAPI\obj\Debug\net10.0\refint\IntroAPI.dll
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroAPI\obj\Debug\net10.0\IntroAPI.xml
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroAPI\obj\Debug\net10.0\IntroAPI.pdb
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroAPI\obj\Debug\net10.0\IntroAPI.genruntimeconfig.cache
+C:\Users\Andre\Downloads\IntroController (2)\IntroController\IntroAPI\obj\Debug\net10.0\ref\IntroAPI.dll
+D:\IntroAPI\bin\Debug\net10.0\appsettings.Development.json
+D:\IntroAPI\bin\Debug\net10.0\appsettings.json
+D:\IntroAPI\bin\Debug\net10.0\IntroAPI.staticwebassets.endpoints.json
+D:\IntroAPI\bin\Debug\net10.0\IntroAPI.exe
+D:\IntroAPI\bin\Debug\net10.0\IntroAPI.deps.json
+D:\IntroAPI\bin\Debug\net10.0\IntroAPI.runtimeconfig.json
+D:\IntroAPI\bin\Debug\net10.0\IntroAPI.dll
+D:\IntroAPI\bin\Debug\net10.0\IntroAPI.pdb
+D:\IntroAPI\bin\Debug\net10.0\IntroAPI.xml
+D:\IntroAPI\bin\Debug\net10.0\BouncyCastle.Cryptography.dll
+D:\IntroAPI\bin\Debug\net10.0\Google.Protobuf.dll
+D:\IntroAPI\bin\Debug\net10.0\K4os.Compression.LZ4.dll
+D:\IntroAPI\bin\Debug\net10.0\K4os.Compression.LZ4.Streams.dll
+D:\IntroAPI\bin\Debug\net10.0\K4os.Hash.xxHash.dll
+D:\IntroAPI\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\IntroAPI\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+D:\IntroAPI\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+D:\IntroAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+D:\IntroAPI\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\IntroAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+D:\IntroAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+D:\IntroAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\IntroAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+D:\IntroAPI\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\IntroAPI\bin\Debug\net10.0\MySql.Data.dll
+D:\IntroAPI\bin\Debug\net10.0\Npgsql.dll
+D:\IntroAPI\bin\Debug\net10.0\Scalar.AspNetCore.dll
+D:\IntroAPI\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+D:\IntroAPI\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+D:\IntroAPI\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+D:\IntroAPI\bin\Debug\net10.0\System.Security.Permissions.dll
+D:\IntroAPI\bin\Debug\net10.0\System.Windows.Extensions.dll
+D:\IntroAPI\bin\Debug\net10.0\ZstdSharp.dll
+D:\IntroAPI\bin\Debug\net10.0\runtimes\win-x64\native\comerr64.dll
+D:\IntroAPI\bin\Debug\net10.0\runtimes\win-x64\native\gssapi64.dll
+D:\IntroAPI\bin\Debug\net10.0\runtimes\win-x64\native\k5sprt64.dll
+D:\IntroAPI\bin\Debug\net10.0\runtimes\win-x64\native\krb5_64.dll
+D:\IntroAPI\bin\Debug\net10.0\runtimes\win-x64\native\krbcc64.dll
+D:\IntroAPI\bin\Debug\net10.0\runtimes\win\lib\net10.0\System.Windows.Extensions.dll
+D:\IntroAPI\obj\Debug\net10.0\IntroAPI.csproj.AssemblyReference.cache
+D:\IntroAPI\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\IntroAPI\obj\Debug\net10.0\IntroAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\IntroAPI\obj\Debug\net10.0\IntroAPI.AssemblyInfoInputs.cache
+D:\IntroAPI\obj\Debug\net10.0\IntroAPI.AssemblyInfo.cs
+D:\IntroAPI\obj\Debug\net10.0\IntroAPI.csproj.CoreCompileInputs.cache
+D:\IntroAPI\obj\Debug\net10.0\IntroAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\IntroAPI\obj\Debug\net10.0\IntroAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\IntroAPI\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\IntroAPI\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\IntroAPI\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\IntroAPI\obj\Debug\net10.0\scopedcss\bundle\IntroAPI.styles.css
+D:\IntroAPI\obj\Debug\net10.0\staticwebassets.build.json
+D:\IntroAPI\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\IntroAPI\obj\Debug\net10.0\staticwebassets.development.json
+D:\IntroAPI\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\IntroAPI\obj\Debug\net10.0\swae.build.ex.cache
+D:\IntroAPI\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\IntroAPI\obj\Debug\net10.0\IntroAPI.csproj.Up2Date
+D:\IntroAPI\obj\Debug\net10.0\IntroAPI.dll
+D:\IntroAPI\obj\Debug\net10.0\refint\IntroAPI.dll
+D:\IntroAPI\obj\Debug\net10.0\IntroAPI.xml
+D:\IntroAPI\obj\Debug\net10.0\IntroAPI.pdb
+D:\IntroAPI\obj\Debug\net10.0\IntroAPI.genruntimeconfig.cache
+D:\IntroAPI\obj\Debug\net10.0\ref\IntroAPI.dll
