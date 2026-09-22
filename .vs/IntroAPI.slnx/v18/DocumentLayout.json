@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\AULA LP 1\\IntroAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{45F5CA25-B5AF-23C6-929C-20D1AA3A4760}|IntroAPI.csproj|c:\\aula lp 1\\introapi\\entidades\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45F5CA25-B5AF-23C6-929C-20D1AA3A4760}|IntroAPI.csproj|solutionrelative:entidades\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45F5CA25-B5AF-23C6-929C-20D1AA3A4760}|IntroAPI.csproj|c:\\aula lp 1\\introapi\\repository\\cidaderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45F5CA25-B5AF-23C6-929C-20D1AA3A4760}|IntroAPI.csproj|solutionrelative:repository\\cidaderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{45F5CA25-B5AF-23C6-929C-20D1AA3A4760}|IntroAPI.csproj|c:\\aula lp 1\\introapi\\repository\\alunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45F5CA25-B5AF-23C6-929C-20D1AA3A4760}|IntroAPI.csproj|solutionrelative:repository\\alunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45F5CA25-B5AF-23C6-929C-20D1AA3A4760}|IntroAPI.csproj|c:\\aula lp 1\\introapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45F5CA25-B5AF-23C6-929C-20D1AA3A4760}|IntroAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45F5CA25-B5AF-23C6-929C-20D1AA3A4760}|IntroAPI.csproj|c:\\aula lp 1\\introapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45F5CA25-B5AF-23C6-929C-20D1AA3A4760}|IntroAPI.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45F5CA25-B5AF-23C6-929C-20D1AA3A4760}|IntroAPI.csproj|c:\\aula lp 1\\introapi\\entidades\\cidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45F5CA25-B5AF-23C6-929C-20D1AA3A4760}|IntroAPI.csproj|solutionrelative:entidades\\cidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -99,14 +95,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Aluno.cs",
-              "DocumentMoniker": "C:\\AULA LP 1\\IntroAPI\\Entidades\\Aluno.cs",
-              "RelativeDocumentMoniker": "Entidades\\Aluno.cs",
-              "ToolTip": "C:\\AULA LP 1\\IntroAPI\\Entidades\\Aluno.cs",
-              "RelativeToolTip": "Entidades\\Aluno.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Title": "CidadeRepository.cs",
+              "DocumentMoniker": "C:\\AULA LP 1\\IntroAPI\\Repository\\CidadeRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\CidadeRepository.cs",
+              "ToolTip": "C:\\AULA LP 1\\IntroAPI\\Repository\\CidadeRepository.cs",
+              "RelativeToolTip": "Repository\\CidadeRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-22T00:07:08.877Z",
+              "WhenOpened": "2026-09-22T00:42:17.051Z",
               "EditorCaption": ""
             },
             {
@@ -117,7 +113,7 @@
               "RelativeDocumentMoniker": "Repository\\AlunoRepository.cs",
               "ToolTip": "C:\\AULA LP 1\\IntroAPI\\Repository\\AlunoRepository.cs",
               "RelativeToolTip": "Repository\\AlunoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-22T00:06:56.207Z",
               "EditorCaption": ""
@@ -125,27 +121,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\AULA LP 1\\IntroAPI\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\AULA LP 1\\IntroAPI\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAQwFEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-20T21:49:17.03Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\AULA LP 1\\IntroAPI\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "WeatherForecast.cs",
-              "ToolTip": "C:\\AULA LP 1\\IntroAPI\\WeatherForecast.cs",
-              "RelativeToolTip": "WeatherForecast.cs",
+              "Title": "Cidade.cs",
+              "DocumentMoniker": "C:\\AULA LP 1\\IntroAPI\\Entidades\\Cidade.cs",
+              "RelativeDocumentMoniker": "Entidades\\Cidade.cs",
+              "ToolTip": "C:\\AULA LP 1\\IntroAPI\\Entidades\\Cidade.cs",
+              "RelativeToolTip": "Entidades\\Cidade.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-20T21:49:08.846Z"
+              "WhenOpened": "2026-09-22T00:52:36.415Z",
+              "EditorCaption": ""
             }
           ]
         },
